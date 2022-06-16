@@ -1,9 +1,20 @@
-public class MobilePhone {
-    int providedyear;
-    String model;
-    String cityProvided;
+package com.example.pojo;
 
-    public int getProvidedyear(int i) {
+public class MobilePhone {
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    private int id;
+    private int providedyear;
+    private String model;
+    private String cityProvided;
+
+    public int getProvidedyear() {
         return providedyear;
     }
 
@@ -26,10 +37,8 @@ public class MobilePhone {
     public void setCityProvided(String cityProvided) {
         this.cityProvided = cityProvided;
     }
-    public String getModel(String model){
+
+    public String getModel(String model) {
         return model;
-    }
-    public String getProvidedYear(String year){
-        return year;
     }
 }
