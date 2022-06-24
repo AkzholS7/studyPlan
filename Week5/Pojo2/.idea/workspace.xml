@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5fe1e05-d339-44e6-ad3a-30375663ffd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../123/.idea/123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-WorldSimulation-Python-master/.idea/OOP-WorldSimulation-Python-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo/src/main/java/MyJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo/src/main/java/com/example/pojo/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo/src/main/java/com/example/pojo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo/src/main/java/com/example/pojo/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo/src/main/java/com/example/pojo/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/target/Pojo1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojo1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pojo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Pojo2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pojos/Pojos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Soccer-Team-simulation-in-Python-oop--master/.idea/Soccer-Team-simulation-in-Python-oop--master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candyLandGame-master/.idea/candyLandGame-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Neobis1/Neobis1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Solution1a/Solution1a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Stepik/Stepik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/exercise/exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/javasimpleGame/javasimpleGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/tictact game/tictact game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/untitled7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/wqer/wqer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fun-master/chatbot-gui/.idea/chatbot-gui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../traffic-light-simulation-main/.idea/traffic-light-simulation-main.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B0o4ngROMFTFOQtdTnhAMRJIMF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/Pojo2-1.0-SNAPSHOT.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Pojo2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="Pojo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5fe1e05-d339-44e6-ad3a-30375663ffd3" name="Changes" comment="" />
+      <created>1656052177189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656052177189</updated>
+      <workItem from="1656052178822" duration="1585000" />
+      <workItem from="1656068375712" duration="3587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

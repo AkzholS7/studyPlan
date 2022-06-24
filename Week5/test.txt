@@ -1,0 +1,23 @@
+I tested my JDBC connection in 2 ways. 
+
+1) - I added data of one more customer like below:
+   
+     String  query = "INSERT INTO CUSTOMERS(id, name, phonenumber) VALUES(5,'Arzymat', 0779858216)";
+            Statement statement = connection.createStatement();
+            statement.execute(query);
+            System.out.println("Added one customers's data");
+
+// at the result I got 5th row added. Actually  there were 4 rows on my customers table.
+
+
+
+2) -  I deleted that row which I added before using the method written below:
+
+    String query2 = "Delete from customers where id = 5";
+            Statement statement1 = connection.createStatement();
+            statement1.execute(query2);
+            System.out.println("Deleted the last row in cutomers table");
+
+// at the result the number of rows in customers table became as previously(4rows again);
+
+So, testing was successfull.
