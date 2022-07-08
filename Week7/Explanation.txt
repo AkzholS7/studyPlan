@@ -1,0 +1,21 @@
+I did a simple project which is called CarshopStore
+
+I created in MVC . I created packages (model, exception, repository, service and impl inside service, and controller);
+I changed the server to 8092. with the help (server.port=8092).
+
+what does it do?
+- It can store new car with the help of @PostMapping.
+- It can get the all and each existing car one by one using @GetMapping .
+- It can update the car's record like change it's name or model by uing @PutMapping
+- It can delete the existing car by Id uing @DeleteMapping
+
+In each REST API I tested does it work or not with the help of PostMan.
+1. I inserted several datas to the table Carshop and at the result it saved values which I gave. 
+2. I get all the List of the Cars from the Carshop table or Entity. And at the response I got list of all cars which    existed.
+3. I get the particular car which I wanted with the help of findbyid method and wrote the id number to the last of the path in the postman
+
+4. I updated the data of specific car. First I wrote the id number of car and set new name and model. At the result my specific car's name and model were changed.
+
+5. At the last I deleted the cars which string of cars were null. And it really did work. I deleted 3 cars.
+
+To sum up my project worked well.
