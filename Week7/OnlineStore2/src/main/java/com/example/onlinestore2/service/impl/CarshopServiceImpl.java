@@ -39,7 +39,7 @@ public class CarshopServiceImpl implements CarshopService {
         Carshop existingCarshop = carshopRepository.findById(id)
                 .orElseThrow(() -> new ResourceNotFoundException("Carshop", "Id", id));
         existingCarshop.setModel(carshop.getModel());
-        existingCarshop.setProvided_year(carshop.getProvided_year());
+        existingCarshop.setProvidedYear(carshop.getProvidedYear());
         carshopRepository.save(existingCarshop);
         return existingCarshop;
 

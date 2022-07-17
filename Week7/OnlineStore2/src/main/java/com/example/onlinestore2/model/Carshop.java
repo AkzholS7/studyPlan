@@ -12,13 +12,9 @@ public class Carshop {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
-    @Column
+    @Column(name = "model", nullable = false)
     private String model;
 
-    @Column
-    private String provided_year;
-
-    @ManyToOne
-            @JoinColumn(name = "customer_id", referencedColumnName = "customerId")
-    Customer customer;
+    @Column(name = "provided_year", nullable = false)
+    private int providedYear;
 }
