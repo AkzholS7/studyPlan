@@ -1,4 +1,4 @@
-package com.javatechie.spring.api.entity;
+package com.example.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
